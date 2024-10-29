@@ -1,0 +1,1 @@
+# Minimal boilerplate for CMake application
